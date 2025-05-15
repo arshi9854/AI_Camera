@@ -22,12 +22,12 @@ This project demonstrates a real AI Camera in action using **llama-server** and 
    
 4.  **Run the llama server**
 
-   /build/bin/llama-server -hf ggml-org/SmolVLM-500M-Instruct-GGUF
+    /build/bin/llama-server -hf ggml-org/SmolVLM-500M-Instruct-GGUF
 
 5. **Install curl if needed**
 
    sudo apt update
    sudo apt install libcurl4-openssl-dev
 
-Open the web interface
-Open index.html in your browser.
+  Open the web interface
+  Open index.html in your browser.
